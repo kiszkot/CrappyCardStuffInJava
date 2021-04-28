@@ -1,0 +1,4 @@
+?
+1000
+Select bet: (input letter to exit)
+Closing
